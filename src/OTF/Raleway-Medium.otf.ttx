@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont sfntVersion="OTTO" ttLibVersion="2.4">
+  <GlyphOrder src="Raleway-Medium.otf.GlyphOrder.ttx"/>
+  <head src="Raleway-Medium.otf._h_e_a_d.ttx"/>
+  <hhea src="Raleway-Medium.otf._h_h_e_a.ttx"/>
+  <maxp src="Raleway-Medium.otf._m_a_x_p.ttx"/>
+  <OS_2 src="Raleway-Medium.otf.O_S_2f_2.ttx"/>
+  <name src="Raleway-Medium.otf._n_a_m_e.ttx"/>
+  <cmap src="Raleway-Medium.otf._c_m_a_p.ttx"/>
+  <post src="Raleway-Medium.otf._p_o_s_t.ttx"/>
+  <CFF src="Raleway-Medium.otf.C_F_F_.ttx"/>
+  <GPOS src="Raleway-Medium.otf.G_P_O_S_.ttx"/>
+  <GSUB src="Raleway-Medium.otf.G_S_U_B_.ttx"/>
+  <hmtx src="Raleway-Medium.otf._h_m_t_x.ttx"/>
+</ttFont>
