@@ -1,0 +1,16 @@
+commit: HEAD
+process_files: [Raleway-Light.ttf.ttx, Raleway-ExtraBoldItalic.ttf.ttx, Raleway-ThinItalic.ttf.ttx,
+  Raleway-Black.ttf.ttx, Raleway-Medium.ttf.ttx, Raleway-BoldItalic.ttf.ttx, Raleway-SemiBoldItalic.ttf.ttx,
+  Raleway-BlackItalic.ttf.ttx, Raleway-MediumItalic.ttf.ttx, Raleway-LightItalic.ttf.ttx,
+  Raleway-Bold.ttf.ttx, Raleway-Thin.ttf.ttx, Raleway-SemiBold.ttf.ttx, Raleway-Italic.ttf.ttx,
+  Raleway-ExtraLight.ttf.ttx, Raleway-ExtraBold.ttf.ttx, Raleway-Regular.ttf.ttx,
+  Raleway-ExtraLightItalic.ttf.ttx, src/OTF/Raleway-Black-Italic.otf.ttx, src/OTF/Raleway-Regular-Italic.otf.ttx,
+  src/OTF/Raleway-SemiBold-Italic.otf.ttx, src/OTF/Raleway-Medium.otf.ttx, src/OTF/Raleway-Light-Italic.otf.ttx,
+  src/OTF/Raleway-ExtraBold.otf.ttx, src/OTF/Raleway-Light.otf.ttx, src/OTF/Raleway-Medium-Italic.otf.ttx,
+  src/OTF/Raleway-Bold-Italic.otf.ttx, src/OTF/Raleway-ExtraLight.otf.ttx, src/OTF/Raleway-Thin-Italic.otf.ttx,
+  src/OTF/Raleway-Thin.otf.ttx, src/OTF/Raleway-Bold.otf.ttx, src/OTF/Raleway-SemiBold.otf.ttx,
+  src/OTF/Raleway-ExtraBold-Italic.otf.ttx, src/OTF/Raleway-Regular.otf.ttx, src/OTF/Raleway-Black.otf.ttx,
+  src/OTF/Raleway-ExtraLight-Italic.otf.ttx]
+pyftsubset: --notdef-outline --name-IDs=* --hinting
+subset: [latin]
+ttfautohint: -l 7 -r 28 -G 50 -x 13 -w "G"

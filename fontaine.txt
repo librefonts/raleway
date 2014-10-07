@@ -1,0 +1,1820 @@
+Fonts
+  All fonts do NOT have the same character sets.
+  Font:
+    Common name: Raleway
+    Sub family: Light
+    Weight: normal
+    Fixed width: no
+    Fixed sizes: no
+    Copyright: Copyright (c) 2010 - 2013, Matt McInerney (matt@pixelspread.com), Pablo Impallari (impallari@gmail.com), Rodrigo Fuenzalida (hello@rfuenzalida.com) with Reserved Font Name "Raleway"
+    License: This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL
+    License url: http://scripts.sil.org/OFL
+    Version: Version 3.000; ttfautohint (v0.96) -l 8 -r 28 -G 28 -x 14 -w "G" -c
+    Vendor: Matt McInerney, Pablo Impallari, Rodrigo Fuenzalida
+    Vendor url: http://theleagueofmoveabletype.com
+    Designer: Matt McInerney, Pablo Impallari, Rodrigo Fuenzalida
+    Designer url: http://pixelspread.com
+    Glyph count: 672
+    Character count: 598
+    Orthographies:
+        Orthography:
+          Common name: Subset latin-ext
+          Support level: fragmentary
+          Percent coverage: 26
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: full
+        Orthography:
+          Common name: Subset devanagari
+          Support level: fragmentary
+          Percent coverage: 1
+        Orthography:
+          Common name: Subset vietnamese
+          Support level: fragmentary
+          Percent coverage: 15
+        Orthography:
+          Common name: Subset greek
+          Support level: fragmentary
+          Percent coverage: 2
+        Orthography:
+          Common name: Subset cyrillic
+          Support level: full
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: partial
+          Percent coverage: 80
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23
+        Orthography:
+          Common name: Subset latin
+          Support level: partial
+          Percent coverage: 98
+  Font:
+    Common name: Raleway
+    Sub family: Black Italic
+    Style: italic
+    Weight: bold
+    Fixed width: no
+    Fixed sizes: yes
+    Copyright: Copyright (c) 2010 - 2012, Matt McInerney (matt@pixelspread.com), Pablo Impallari (impallari@gmail.com), Rodrigo Fuenzalida (hello@rfuenzalida.com) with Reserved Font Name "Raleway"
+    License: This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL
+    License url: http://scripts.sil.org/OFL
+    Version: Version 3.000
+    Vendor: Matt McInerney, Pablo Impallari, Rodrigo Fuenzalida
+    Vendor url: http://theleagueofmoveabletype.com
+    Designer: Matt McInerney, Pablo Impallari, Rodrigo Fuenzalida
+    Designer url: http://pixelspread.com
+    Glyph count: 572
+    Character count: 500
+    Orthographies:
+        Orthography:
+          Common name: Subset latin-ext
+          Support level: fragmentary
+          Percent coverage: 26
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: fragmentary
+          Percent coverage: 33
+        Orthography:
+          Common name: Subset devanagari
+          Support level: fragmentary
+          Percent coverage: 1
+        Orthography:
+          Common name: Subset vietnamese
+          Support level: fragmentary
+          Percent coverage: 15
+        Orthography:
+          Common name: Subset greek
+          Support level: fragmentary
+          Percent coverage: 2
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: partial
+          Percent coverage: 80
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23
+        Orthography:
+          Common name: Subset latin
+          Support level: partial
+          Percent coverage: 98
+  Font:
+    Common name: Raleway
+    Sub family: ExtraBold Italic
+    Style: italic
+    Weight: bold
+    Fixed width: no
+    Fixed sizes: no
+    Copyright: Copyright (c) 2010 - 2012, Matt McInerney (matt@pixelspread.com), Pablo Impallari (impallari@gmail.com), Rodrigo Fuenzalida (hello@rfuenzalida.com) with Reserved Font Name "Raleway"
+    License: This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL
+    License url: http://scripts.sil.org/OFL
+    Version: Version 3.000; ttfautohint (v0.96) -l 8 -r 28 -G 28 -x 14 -w "G" -c
+    Vendor: Matt McInerney, Pablo Impallari, Rodrigo Fuenzalida
+    Vendor url: http://theleagueofmoveabletype.com
+    Designer: Matt McInerney, Pablo Impallari, Rodrigo Fuenzalida
+    Designer url: http://pixelspread.com
+    Glyph count: 572
+    Character count: 500
+    Orthographies:
+        Orthography:
+          Common name: Subset latin-ext
+          Support level: fragmentary
+          Percent coverage: 26
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: fragmentary
+          Percent coverage: 33
+        Orthography:
+          Common name: Subset devanagari
+          Support level: fragmentary
+          Percent coverage: 1
+        Orthography:
+          Common name: Subset vietnamese
+          Support level: fragmentary
+          Percent coverage: 15
+        Orthography:
+          Common name: Subset greek
+          Support level: fragmentary
+          Percent coverage: 2
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: partial
+          Percent coverage: 80
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23
+        Orthography:
+          Common name: Subset latin
+          Support level: partial
+          Percent coverage: 98
+  Font:
+    Common name: Raleway
+    Sub family: Italic
+    Style: italic
+    Weight: normal
+    Fixed width: no
+    Fixed sizes: yes
+    Copyright: Copyright (c) 2010 - 2012, Matt McInerney (matt@pixelspread.com), Pablo Impallari (impallari@gmail.com), Rodrigo Fuenzalida (hello@rfuenzalida.com) with Reserved Font Name "Raleway"
+    License: This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL
+    License url: http://scripts.sil.org/OFL
+    Version: Version 3.000
+    Vendor: Matt McInerney, Pablo Impallari, Rodrigo Fuenzalida
+    Vendor url: http://theleagueofmoveabletype.com
+    Designer: Matt McInerney, Pablo Impallari, Rodrigo Fuenzalida
+    Designer url: http://pixelspread.com
+    Glyph count: 572
+    Character count: 500
+    Orthographies:
+        Orthography:
+          Common name: Subset latin-ext
+          Support level: fragmentary
+          Percent coverage: 26
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: fragmentary
+          Percent coverage: 33
+        Orthography:
+          Common name: Subset devanagari
+          Support level: fragmentary
+          Percent coverage: 1
+        Orthography:
+          Common name: Subset vietnamese
+          Support level: fragmentary
+          Percent coverage: 15
+        Orthography:
+          Common name: Subset greek
+          Support level: fragmentary
+          Percent coverage: 2
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: partial
+          Percent coverage: 80
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23
+        Orthography:
+          Common name: Subset latin
+          Support level: partial
+          Percent coverage: 98
+  Font:
+    Common name: Raleway
+    Sub family: Thin Italic
+    Style: italic
+    Weight: normal
+    Fixed width: no
+    Fixed sizes: no
+    Copyright: Copyright (c) 2010 - 2012, Matt McInerney (matt@pixelspread.com), Pablo Impallari (impallari@gmail.com), Rodrigo Fuenzalida (hello@rfuenzalida.com) with Reserved Font Name "Raleway"
+    License: This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL
+    License url: http://scripts.sil.org/OFL
+    Version: Version 3.000; ttfautohint (v0.96) -l 8 -r 28 -G 28 -x 14 -w "G" -c
+    Vendor: Matt McInerney, Pablo Impallari, Rodrigo Fuenzalida
+    Vendor url: http://theleagueofmoveabletype.com
+    Designer: Matt McInerney, Pablo Impallari, Rodrigo Fuenzalida
+    Designer url: http://pixelspread.com
+    Glyph count: 572
+    Character count: 500
+    Orthographies:
+        Orthography:
+          Common name: Subset latin-ext
+          Support level: fragmentary
+          Percent coverage: 26
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: fragmentary
+          Percent coverage: 33
+        Orthography:
+          Common name: Subset devanagari
+          Support level: fragmentary
+          Percent coverage: 1
+        Orthography:
+          Common name: Subset vietnamese
+          Support level: fragmentary
+          Percent coverage: 15
+        Orthography:
+          Common name: Subset greek
+          Support level: fragmentary
+          Percent coverage: 2
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: partial
+          Percent coverage: 80
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23
+        Orthography:
+          Common name: Subset latin
+          Support level: partial
+          Percent coverage: 98
+  Font:
+    Common name: Raleway
+    Sub family: SemiBold Italic
+    Style: italic
+    Weight: bold
+    Fixed width: no
+    Fixed sizes: yes
+    Copyright: Copyright (c) 2010 - 2012, Matt McInerney (matt@pixelspread.com), Pablo Impallari (impallari@gmail.com), Rodrigo Fuenzalida (hello@rfuenzalida.com) with Reserved Font Name "Raleway"
+    License: This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL
+    License url: http://scripts.sil.org/OFL
+    Version: Version 3.000
+    Vendor: Matt McInerney, Pablo Impallari, Rodrigo Fuenzalida
+    Vendor url: http://theleagueofmoveabletype.com
+    Designer: Matt McInerney, Pablo Impallari, Rodrigo Fuenzalida
+    Designer url: http://pixelspread.com
+    Glyph count: 572
+    Character count: 500
+    Orthographies:
+        Orthography:
+          Common name: Subset latin-ext
+          Support level: fragmentary
+          Percent coverage: 26
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: fragmentary
+          Percent coverage: 33
+        Orthography:
+          Common name: Subset devanagari
+          Support level: fragmentary
+          Percent coverage: 1
+        Orthography:
+          Common name: Subset vietnamese
+          Support level: fragmentary
+          Percent coverage: 15
+        Orthography:
+          Common name: Subset greek
+          Support level: fragmentary
+          Percent coverage: 2
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: partial
+          Percent coverage: 80
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23
+        Orthography:
+          Common name: Subset latin
+          Support level: partial
+          Percent coverage: 98
+  Font:
+    Common name: Raleway
+    Sub family: Medium
+    Weight: bold
+    Fixed width: no
+    Fixed sizes: yes
+    Copyright: Copyright (c) 2010 - 2013, Matt McInerney (matt@pixelspread.com), Pablo Impallari (impallari@gmail.com), Rodrigo Fuenzalida (hello@rfuenzalida.com) with Reserved Font Name "Raleway"
+    License: This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL
+    License url: http://scripts.sil.org/OFL
+    Version: Version 3.000
+    Vendor: Matt McInerney, Pablo Impallari, Rodrigo Fuenzalida
+    Vendor url: http://theleagueofmoveabletype.com
+    Designer: Matt McInerney, Pablo Impallari, Rodrigo Fuenzalida
+    Designer url: http://pixelspread.com
+    Glyph count: 672
+    Character count: 600
+    Orthographies:
+        Orthography:
+          Common name: Subset latin-ext
+          Support level: fragmentary
+          Percent coverage: 26
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: full
+        Orthography:
+          Common name: Subset devanagari
+          Support level: fragmentary
+          Percent coverage: 1
+        Orthography:
+          Common name: Subset vietnamese
+          Support level: fragmentary
+          Percent coverage: 15
+        Orthography:
+          Common name: Subset greek
+          Support level: fragmentary
+          Percent coverage: 2
+        Orthography:
+          Common name: Subset cyrillic
+          Support level: full
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: partial
+          Percent coverage: 80
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23
+        Orthography:
+          Common name: Subset latin
+          Support level: partial
+          Percent coverage: 98
+  Font:
+    Common name: Raleway
+    Sub family: Light Italic
+    Style: italic
+    Weight: normal
+    Fixed width: no
+    Fixed sizes: yes
+    Copyright: Copyright (c) 2010 - 2012, Matt McInerney (matt@pixelspread.com), Pablo Impallari (impallari@gmail.com), Rodrigo Fuenzalida (hello@rfuenzalida.com) with Reserved Font Name "Raleway"
+    License: This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL
+    License url: http://scripts.sil.org/OFL
+    Version: Version 3.000
+    Vendor: Matt McInerney, Pablo Impallari, Rodrigo Fuenzalida
+    Vendor url: http://theleagueofmoveabletype.com
+    Designer: Matt McInerney, Pablo Impallari, Rodrigo Fuenzalida
+    Designer url: http://pixelspread.com
+    Glyph count: 572
+    Character count: 500
+    Orthographies:
+        Orthography:
+          Common name: Subset latin-ext
+          Support level: fragmentary
+          Percent coverage: 26
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: fragmentary
+          Percent coverage: 33
+        Orthography:
+          Common name: Subset devanagari
+          Support level: fragmentary
+          Percent coverage: 1
+        Orthography:
+          Common name: Subset vietnamese
+          Support level: fragmentary
+          Percent coverage: 15
+        Orthography:
+          Common name: Subset greek
+          Support level: fragmentary
+          Percent coverage: 2
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: partial
+          Percent coverage: 80
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23
+        Orthography:
+          Common name: Subset latin
+          Support level: partial
+          Percent coverage: 98
+  Font:
+    Common name: Raleway
+    Sub family: Black
+    Weight: bold
+    Fixed width: no
+    Fixed sizes: no
+    Copyright: Copyright (c) 2010 - 2013, Matt McInerney (matt@pixelspread.com), Pablo Impallari (impallari@gmail.com), Rodrigo Fuenzalida (hello@rfuenzalida.com) with Reserved Font Name "Raleway"
+    License: This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL
+    License url: http://scripts.sil.org/OFL
+    Version: Version 3.000; ttfautohint (v0.96) -l 8 -r 28 -G 28 -x 14 -w "G" -c
+    Vendor: Matt McInerney, Pablo Impallari, Rodrigo Fuenzalida
+    Vendor url: http://theleagueofmoveabletype.com
+    Designer: Matt McInerney, Pablo Impallari, Rodrigo Fuenzalida
+    Designer url: http://pixelspread.com
+    Glyph count: 672
+    Character count: 600
+    Orthographies:
+        Orthography:
+          Common name: Subset latin-ext
+          Support level: fragmentary
+          Percent coverage: 26
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: full
+        Orthography:
+          Common name: Subset devanagari
+          Support level: fragmentary
+          Percent coverage: 1
+        Orthography:
+          Common name: Subset vietnamese
+          Support level: fragmentary
+          Percent coverage: 15
+        Orthography:
+          Common name: Subset greek
+          Support level: fragmentary
+          Percent coverage: 2
+        Orthography:
+          Common name: Subset cyrillic
+          Support level: full
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: partial
+          Percent coverage: 80
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23
+        Orthography:
+          Common name: Subset latin
+          Support level: partial
+          Percent coverage: 98
+  Font:
+    Common name: Raleway
+    Sub family: ExtraBold
+    Weight: bold
+    Fixed width: no
+    Fixed sizes: yes
+    Copyright: Copyright (c) 2010 - 2013, Matt McInerney (matt@pixelspread.com), Pablo Impallari (impallari@gmail.com), Rodrigo Fuenzalida (hello@rfuenzalida.com) with Reserved Font Name "Raleway"
+    License: This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL
+    License url: http://scripts.sil.org/OFL
+    Version: Version 3.000
+    Vendor: Matt McInerney, Pablo Impallari, Rodrigo Fuenzalida
+    Vendor url: http://theleagueofmoveabletype.com
+    Designer: Matt McInerney, Pablo Impallari, Rodrigo Fuenzalida
+    Designer url: http://pixelspread.com
+    Glyph count: 672
+    Character count: 600
+    Orthographies:
+        Orthography:
+          Common name: Subset latin-ext
+          Support level: fragmentary
+          Percent coverage: 26
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: full
+        Orthography:
+          Common name: Subset devanagari
+          Support level: fragmentary
+          Percent coverage: 1
+        Orthography:
+          Common name: Subset vietnamese
+          Support level: fragmentary
+          Percent coverage: 15
+        Orthography:
+          Common name: Subset greek
+          Support level: fragmentary
+          Percent coverage: 2
+        Orthography:
+          Common name: Subset cyrillic
+          Support level: full
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: partial
+          Percent coverage: 80
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23
+        Orthography:
+          Common name: Subset latin
+          Support level: partial
+          Percent coverage: 98
+  Font:
+    Common name: Raleway
+    Sub family: Light
+    Weight: normal
+    Fixed width: no
+    Fixed sizes: yes
+    Copyright: Copyright (c) 2010 - 2013, Matt McInerney (matt@pixelspread.com), Pablo Impallari (impallari@gmail.com), Rodrigo Fuenzalida (hello@rfuenzalida.com) with Reserved Font Name "Raleway"
+    License: This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL
+    License url: http://scripts.sil.org/OFL
+    Version: Version 3.000
+    Vendor: Matt McInerney, Pablo Impallari, Rodrigo Fuenzalida
+    Vendor url: http://theleagueofmoveabletype.com
+    Designer: Matt McInerney, Pablo Impallari, Rodrigo Fuenzalida
+    Designer url: http://pixelspread.com
+    Glyph count: 672
+    Character count: 600
+    Orthographies:
+        Orthography:
+          Common name: Subset latin-ext
+          Support level: fragmentary
+          Percent coverage: 26
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: full
+        Orthography:
+          Common name: Subset devanagari
+          Support level: fragmentary
+          Percent coverage: 1
+        Orthography:
+          Common name: Subset vietnamese
+          Support level: fragmentary
+          Percent coverage: 15
+        Orthography:
+          Common name: Subset greek
+          Support level: fragmentary
+          Percent coverage: 2
+        Orthography:
+          Common name: Subset cyrillic
+          Support level: full
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: partial
+          Percent coverage: 80
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23
+        Orthography:
+          Common name: Subset latin
+          Support level: partial
+          Percent coverage: 98
+  Font:
+    Common name: Raleway
+    Sub family: Medium
+    Weight: bold
+    Fixed width: no
+    Fixed sizes: no
+    Copyright: Copyright (c) 2010 - 2013, Matt McInerney (matt@pixelspread.com), Pablo Impallari (impallari@gmail.com), Rodrigo Fuenzalida (hello@rfuenzalida.com) with Reserved Font Name "Raleway"
+    License: This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL
+    License url: http://scripts.sil.org/OFL
+    Version: Version 3.000; ttfautohint (v0.96) -l 8 -r 28 -G 28 -x 14 -w "G" -c
+    Vendor: Matt McInerney, Pablo Impallari, Rodrigo Fuenzalida
+    Vendor url: http://theleagueofmoveabletype.com
+    Designer: Matt McInerney, Pablo Impallari, Rodrigo Fuenzalida
+    Designer url: http://pixelspread.com
+    Glyph count: 672
+    Character count: 598
+    Orthographies:
+        Orthography:
+          Common name: Subset latin-ext
+          Support level: fragmentary
+          Percent coverage: 26
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: full
+        Orthography:
+          Common name: Subset devanagari
+          Support level: fragmentary
+          Percent coverage: 1
+        Orthography:
+          Common name: Subset vietnamese
+          Support level: fragmentary
+          Percent coverage: 15
+        Orthography:
+          Common name: Subset greek
+          Support level: fragmentary
+          Percent coverage: 2
+        Orthography:
+          Common name: Subset cyrillic
+          Support level: full
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: partial
+          Percent coverage: 80
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23
+        Orthography:
+          Common name: Subset latin
+          Support level: partial
+          Percent coverage: 98
+  Font:
+    Common name: Raleway
+    Sub family: Bold Italic
+    Style: italic
+    Weight: bold
+    Fixed width: no
+    Fixed sizes: no
+    Copyright: Copyright (c) 2010 - 2012, Matt McInerney (matt@pixelspread.com), Pablo Impallari (impallari@gmail.com), Rodrigo Fuenzalida (hello@rfuenzalida.com) with Reserved Font Name "Raleway"
+    License: This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL
+    License url: http://scripts.sil.org/OFL
+    Version: Version 3.000; ttfautohint (v0.96) -l 8 -r 28 -G 28 -x 14 -w "G" -c
+    Vendor: Matt McInerney, Pablo Impallari, Rodrigo Fuenzalida
+    Vendor url: http://theleagueofmoveabletype.com
+    Designer: Matt McInerney, Pablo Impallari, Rodrigo Fuenzalida
+    Designer url: http://pixelspread.com
+    Glyph count: 572
+    Character count: 500
+    Orthographies:
+        Orthography:
+          Common name: Subset latin-ext
+          Support level: fragmentary
+          Percent coverage: 26
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: fragmentary
+          Percent coverage: 33
+        Orthography:
+          Common name: Subset devanagari
+          Support level: fragmentary
+          Percent coverage: 1
+        Orthography:
+          Common name: Subset vietnamese
+          Support level: fragmentary
+          Percent coverage: 15
+        Orthography:
+          Common name: Subset greek
+          Support level: fragmentary
+          Percent coverage: 2
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: partial
+          Percent coverage: 80
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23
+        Orthography:
+          Common name: Subset latin
+          Support level: partial
+          Percent coverage: 98
+  Font:
+    Common name: Raleway
+    Sub family: Medium Italic
+    Style: italic
+    Weight: bold
+    Fixed width: no
+    Fixed sizes: yes
+    Copyright: Copyright (c) 2010 - 2012, Matt McInerney (matt@pixelspread.com), Pablo Impallari (impallari@gmail.com), Rodrigo Fuenzalida (hello@rfuenzalida.com) with Reserved Font Name "Raleway"
+    License: This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL
+    License url: http://scripts.sil.org/OFL
+    Version: Version 3.000
+    Vendor: Matt McInerney, Pablo Impallari, Rodrigo Fuenzalida
+    Vendor url: http://theleagueofmoveabletype.com
+    Designer: Matt McInerney, Pablo Impallari, Rodrigo Fuenzalida
+    Designer url: http://pixelspread.com
+    Glyph count: 572
+    Character count: 500
+    Orthographies:
+        Orthography:
+          Common name: Subset latin-ext
+          Support level: fragmentary
+          Percent coverage: 26
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: fragmentary
+          Percent coverage: 33
+        Orthography:
+          Common name: Subset devanagari
+          Support level: fragmentary
+          Percent coverage: 1
+        Orthography:
+          Common name: Subset vietnamese
+          Support level: fragmentary
+          Percent coverage: 15
+        Orthography:
+          Common name: Subset greek
+          Support level: fragmentary
+          Percent coverage: 2
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: partial
+          Percent coverage: 80
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23
+        Orthography:
+          Common name: Subset latin
+          Support level: partial
+          Percent coverage: 98
+  Font:
+    Common name: Raleway
+    Sub family: SemiBold Italic
+    Style: italic
+    Weight: bold
+    Fixed width: no
+    Fixed sizes: no
+    Copyright: Copyright (c) 2010 - 2012, Matt McInerney (matt@pixelspread.com), Pablo Impallari (impallari@gmail.com), Rodrigo Fuenzalida (hello@rfuenzalida.com) with Reserved Font Name "Raleway"
+    License: This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL
+    License url: http://scripts.sil.org/OFL
+    Version: Version 3.000; ttfautohint (v0.96) -l 8 -r 28 -G 28 -x 14 -w "G" -c
+    Vendor: Matt McInerney, Pablo Impallari, Rodrigo Fuenzalida
+    Vendor url: http://theleagueofmoveabletype.com
+    Designer: Matt McInerney, Pablo Impallari, Rodrigo Fuenzalida
+    Designer url: http://pixelspread.com
+    Glyph count: 572
+    Character count: 500
+    Orthographies:
+        Orthography:
+          Common name: Subset latin-ext
+          Support level: fragmentary
+          Percent coverage: 26
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: fragmentary
+          Percent coverage: 33
+        Orthography:
+          Common name: Subset devanagari
+          Support level: fragmentary
+          Percent coverage: 1
+        Orthography:
+          Common name: Subset vietnamese
+          Support level: fragmentary
+          Percent coverage: 15
+        Orthography:
+          Common name: Subset greek
+          Support level: fragmentary
+          Percent coverage: 2
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: partial
+          Percent coverage: 80
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23
+        Orthography:
+          Common name: Subset latin
+          Support level: partial
+          Percent coverage: 98
+  Font:
+    Common name: Raleway
+    Sub family: Bold Italic
+    Style: italic
+    Weight: bold
+    Fixed width: no
+    Fixed sizes: yes
+    Copyright: Copyright (c) 2010 - 2012, Matt McInerney (matt@pixelspread.com), Pablo Impallari (impallari@gmail.com), Rodrigo Fuenzalida (hello@rfuenzalida.com) with Reserved Font Name "Raleway"
+    License: This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL
+    License url: http://scripts.sil.org/OFL
+    Version: Version 3.000
+    Vendor: Matt McInerney, Pablo Impallari, Rodrigo Fuenzalida
+    Vendor url: http://theleagueofmoveabletype.com
+    Designer: Matt McInerney, Pablo Impallari, Rodrigo Fuenzalida
+    Designer url: http://pixelspread.com
+    Glyph count: 572
+    Character count: 500
+    Orthographies:
+        Orthography:
+          Common name: Subset latin-ext
+          Support level: fragmentary
+          Percent coverage: 26
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: fragmentary
+          Percent coverage: 33
+        Orthography:
+          Common name: Subset devanagari
+          Support level: fragmentary
+          Percent coverage: 1
+        Orthography:
+          Common name: Subset vietnamese
+          Support level: fragmentary
+          Percent coverage: 15
+        Orthography:
+          Common name: Subset greek
+          Support level: fragmentary
+          Percent coverage: 2
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: partial
+          Percent coverage: 80
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23
+        Orthography:
+          Common name: Subset latin
+          Support level: partial
+          Percent coverage: 98
+  Font:
+    Common name: Raleway
+    Sub family: ExtraLight
+    Weight: normal
+    Fixed width: no
+    Fixed sizes: yes
+    Copyright: Copyright (c) 2010 - 2013, Matt McInerney (matt@pixelspread.com), Pablo Impallari (impallari@gmail.com), Rodrigo Fuenzalida (hello@rfuenzalida.com) with Reserved Font Name "Raleway"
+    License: This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL
+    License url: http://scripts.sil.org/OFL
+    Version: Version 3.000
+    Vendor: Matt McInerney, Pablo Impallari, Rodrigo Fuenzalida
+    Vendor url: http://theleagueofmoveabletype.com
+    Designer: Matt McInerney, Pablo Impallari, Rodrigo Fuenzalida
+    Designer url: http://pixelspread.com
+    Glyph count: 672
+    Character count: 600
+    Orthographies:
+        Orthography:
+          Common name: Subset latin-ext
+          Support level: fragmentary
+          Percent coverage: 26
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: full
+        Orthography:
+          Common name: Subset devanagari
+          Support level: fragmentary
+          Percent coverage: 1
+        Orthography:
+          Common name: Subset vietnamese
+          Support level: fragmentary
+          Percent coverage: 15
+        Orthography:
+          Common name: Subset greek
+          Support level: fragmentary
+          Percent coverage: 2
+        Orthography:
+          Common name: Subset cyrillic
+          Support level: full
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: partial
+          Percent coverage: 80
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23
+        Orthography:
+          Common name: Subset latin
+          Support level: partial
+          Percent coverage: 98
+  Font:
+    Common name: Raleway
+    Sub family: Black Italic
+    Style: italic
+    Weight: bold
+    Fixed width: no
+    Fixed sizes: no
+    Copyright: Copyright (c) 2010 - 2012, Matt McInerney (matt@pixelspread.com), Pablo Impallari (impallari@gmail.com), Rodrigo Fuenzalida (hello@rfuenzalida.com) with Reserved Font Name "Raleway"
+    License: This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL
+    License url: http://scripts.sil.org/OFL
+    Version: Version 3.000; ttfautohint (v0.96) -l 8 -r 28 -G 28 -x 14 -w "G" -c
+    Vendor: Matt McInerney, Pablo Impallari, Rodrigo Fuenzalida
+    Vendor url: http://theleagueofmoveabletype.com
+    Designer: Matt McInerney, Pablo Impallari, Rodrigo Fuenzalida
+    Designer url: http://pixelspread.com
+    Glyph count: 572
+    Character count: 498
+    Orthographies:
+        Orthography:
+          Common name: Subset latin-ext
+          Support level: fragmentary
+          Percent coverage: 26
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: fragmentary
+          Percent coverage: 33
+        Orthography:
+          Common name: Subset devanagari
+          Support level: fragmentary
+          Percent coverage: 1
+        Orthography:
+          Common name: Subset vietnamese
+          Support level: fragmentary
+          Percent coverage: 15
+        Orthography:
+          Common name: Subset greek
+          Support level: fragmentary
+          Percent coverage: 2
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: partial
+          Percent coverage: 80
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23
+        Orthography:
+          Common name: Subset latin
+          Support level: partial
+          Percent coverage: 98
+  Font:
+    Common name: Raleway
+    Sub family: Thin Italic
+    Style: italic
+    Weight: normal
+    Fixed width: no
+    Fixed sizes: yes
+    Copyright: Copyright (c) 2010 - 2012, Matt McInerney (matt@pixelspread.com), Pablo Impallari (impallari@gmail.com), Rodrigo Fuenzalida (hello@rfuenzalida.com) with Reserved Font Name "Raleway"
+    License: This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL
+    License url: http://scripts.sil.org/OFL
+    Version: Version 3.000
+    Vendor: Matt McInerney, Pablo Impallari, Rodrigo Fuenzalida
+    Vendor url: http://theleagueofmoveabletype.com
+    Designer: Matt McInerney, Pablo Impallari, Rodrigo Fuenzalida
+    Designer url: http://pixelspread.com
+    Glyph count: 572
+    Character count: 500
+    Orthographies:
+        Orthography:
+          Common name: Subset latin-ext
+          Support level: fragmentary
+          Percent coverage: 26
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: fragmentary
+          Percent coverage: 33
+        Orthography:
+          Common name: Subset devanagari
+          Support level: fragmentary
+          Percent coverage: 1
+        Orthography:
+          Common name: Subset vietnamese
+          Support level: fragmentary
+          Percent coverage: 15
+        Orthography:
+          Common name: Subset greek
+          Support level: fragmentary
+          Percent coverage: 2
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: partial
+          Percent coverage: 80
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23
+        Orthography:
+          Common name: Subset latin
+          Support level: partial
+          Percent coverage: 98
+  Font:
+    Common name: Raleway
+    Sub family: Medium Italic
+    Style: italic
+    Weight: bold
+    Fixed width: no
+    Fixed sizes: no
+    Copyright: Copyright (c) 2010 - 2012, Matt McInerney (matt@pixelspread.com), Pablo Impallari (impallari@gmail.com), Rodrigo Fuenzalida (hello@rfuenzalida.com) with Reserved Font Name "Raleway"
+    License: This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL
+    License url: http://scripts.sil.org/OFL
+    Version: Version 3.000; ttfautohint (v0.96) -l 8 -r 28 -G 28 -x 14 -w "G" -c
+    Vendor: Matt McInerney, Pablo Impallari, Rodrigo Fuenzalida
+    Vendor url: http://theleagueofmoveabletype.com
+    Designer: Matt McInerney, Pablo Impallari, Rodrigo Fuenzalida
+    Designer url: http://pixelspread.com
+    Glyph count: 572
+    Character count: 498
+    Orthographies:
+        Orthography:
+          Common name: Subset latin-ext
+          Support level: fragmentary
+          Percent coverage: 26
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: fragmentary
+          Percent coverage: 33
+        Orthography:
+          Common name: Subset devanagari
+          Support level: fragmentary
+          Percent coverage: 1
+        Orthography:
+          Common name: Subset vietnamese
+          Support level: fragmentary
+          Percent coverage: 15
+        Orthography:
+          Common name: Subset greek
+          Support level: fragmentary
+          Percent coverage: 2
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: partial
+          Percent coverage: 80
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23
+        Orthography:
+          Common name: Subset latin
+          Support level: partial
+          Percent coverage: 98
+  Font:
+    Common name: Raleway
+    Sub family: Thin
+    Weight: normal
+    Fixed width: no
+    Fixed sizes: yes
+    Copyright: Copyright (c) 2010 - 2013, Matt McInerney (matt@pixelspread.com), Pablo Impallari (impallari@gmail.com), Rodrigo Fuenzalida (hello@rfuenzalida.com) with Reserved Font Name "Raleway"
+    License: This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL
+    License url: http://scripts.sil.org/OFL
+    Version: Version 3.000
+    Vendor: Matt McInerney, Pablo Impallari, Rodrigo Fuenzalida
+    Vendor url: http://theleagueofmoveabletype.com
+    Designer: Matt McInerney, Pablo Impallari, Rodrigo Fuenzalida
+    Designer url: http://pixelspread.com
+    Glyph count: 672
+    Character count: 600
+    Orthographies:
+        Orthography:
+          Common name: Subset latin-ext
+          Support level: fragmentary
+          Percent coverage: 26
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: full
+        Orthography:
+          Common name: Subset devanagari
+          Support level: fragmentary
+          Percent coverage: 1
+        Orthography:
+          Common name: Subset vietnamese
+          Support level: fragmentary
+          Percent coverage: 15
+        Orthography:
+          Common name: Subset greek
+          Support level: fragmentary
+          Percent coverage: 2
+        Orthography:
+          Common name: Subset cyrillic
+          Support level: full
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: partial
+          Percent coverage: 80
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23
+        Orthography:
+          Common name: Subset latin
+          Support level: partial
+          Percent coverage: 98
+  Font:
+    Common name: Raleway
+    Sub family: Bold
+    Weight: bold
+    Fixed width: no
+    Fixed sizes: yes
+    Copyright: Copyright (c) 2010 - 2013, Matt McInerney (matt@pixelspread.com), Pablo Impallari (impallari@gmail.com), Rodrigo Fuenzalida (hello@rfuenzalida.com) with Reserved Font Name "Raleway"
+    License: This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL
+    License url: http://scripts.sil.org/OFL
+    Version: Version 3.000
+    Vendor: Matt McInerney, Pablo Impallari, Rodrigo Fuenzalida
+    Vendor url: http://theleagueofmoveabletype.com
+    Designer: Matt McInerney, Pablo Impallari, Rodrigo Fuenzalida
+    Designer url: http://pixelspread.com
+    Glyph count: 672
+    Character count: 600
+    Orthographies:
+        Orthography:
+          Common name: Subset latin-ext
+          Support level: fragmentary
+          Percent coverage: 26
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: full
+        Orthography:
+          Common name: Subset devanagari
+          Support level: fragmentary
+          Percent coverage: 1
+        Orthography:
+          Common name: Subset vietnamese
+          Support level: fragmentary
+          Percent coverage: 15
+        Orthography:
+          Common name: Subset greek
+          Support level: fragmentary
+          Percent coverage: 2
+        Orthography:
+          Common name: Subset cyrillic
+          Support level: full
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: partial
+          Percent coverage: 80
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23
+        Orthography:
+          Common name: Subset latin
+          Support level: partial
+          Percent coverage: 98
+  Font:
+    Common name: Raleway
+    Sub family: Light Italic
+    Style: italic
+    Weight: normal
+    Fixed width: no
+    Fixed sizes: no
+    Copyright: Copyright (c) 2010 - 2012, Matt McInerney (matt@pixelspread.com), Pablo Impallari (impallari@gmail.com), Rodrigo Fuenzalida (hello@rfuenzalida.com) with Reserved Font Name "Raleway"
+    License: This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL
+    License url: http://scripts.sil.org/OFL
+    Version: Version 3.000; ttfautohint (v0.96) -l 8 -r 28 -G 28 -x 14 -w "G" -c
+    Vendor: Matt McInerney, Pablo Impallari, Rodrigo Fuenzalida
+    Vendor url: http://theleagueofmoveabletype.com
+    Designer: Matt McInerney, Pablo Impallari, Rodrigo Fuenzalida
+    Designer url: http://pixelspread.com
+    Glyph count: 572
+    Character count: 500
+    Orthographies:
+        Orthography:
+          Common name: Subset latin-ext
+          Support level: fragmentary
+          Percent coverage: 26
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: fragmentary
+          Percent coverage: 33
+        Orthography:
+          Common name: Subset devanagari
+          Support level: fragmentary
+          Percent coverage: 1
+        Orthography:
+          Common name: Subset vietnamese
+          Support level: fragmentary
+          Percent coverage: 15
+        Orthography:
+          Common name: Subset greek
+          Support level: fragmentary
+          Percent coverage: 2
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: partial
+          Percent coverage: 80
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23
+        Orthography:
+          Common name: Subset latin
+          Support level: partial
+          Percent coverage: 98
+  Font:
+    Common name: Raleway
+    Sub family: SemiBold
+    Weight: bold
+    Fixed width: no
+    Fixed sizes: yes
+    Copyright: Copyright (c) 2010 - 2013, Matt McInerney (matt@pixelspread.com), Pablo Impallari (impallari@gmail.com), Rodrigo Fuenzalida (hello@rfuenzalida.com) with Reserved Font Name "Raleway"
+    License: This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL
+    License url: http://scripts.sil.org/OFL
+    Version: Version 3.000
+    Vendor: Matt McInerney, Pablo Impallari, Rodrigo Fuenzalida
+    Vendor url: http://theleagueofmoveabletype.com
+    Designer: Matt McInerney, Pablo Impallari, Rodrigo Fuenzalida
+    Designer url: http://pixelspread.com
+    Glyph count: 672
+    Character count: 600
+    Orthographies:
+        Orthography:
+          Common name: Subset latin-ext
+          Support level: fragmentary
+          Percent coverage: 26
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: full
+        Orthography:
+          Common name: Subset devanagari
+          Support level: fragmentary
+          Percent coverage: 1
+        Orthography:
+          Common name: Subset vietnamese
+          Support level: fragmentary
+          Percent coverage: 15
+        Orthography:
+          Common name: Subset greek
+          Support level: fragmentary
+          Percent coverage: 2
+        Orthography:
+          Common name: Subset cyrillic
+          Support level: full
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: partial
+          Percent coverage: 80
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23
+        Orthography:
+          Common name: Subset latin
+          Support level: partial
+          Percent coverage: 98
+  Font:
+    Common name: Raleway
+    Sub family: Bold
+    Weight: bold
+    Fixed width: no
+    Fixed sizes: no
+    Copyright: Copyright (c) 2010 - 2013, Matt McInerney (matt@pixelspread.com), Pablo Impallari (impallari@gmail.com), Rodrigo Fuenzalida (hello@rfuenzalida.com) with Reserved Font Name "Raleway"
+    License: This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL
+    License url: http://scripts.sil.org/OFL
+    Version: Version 3.000; ttfautohint (v0.96) -l 8 -r 28 -G 28 -x 14 -w "G" -c
+    Vendor: Matt McInerney, Pablo Impallari, Rodrigo Fuenzalida
+    Vendor url: http://theleagueofmoveabletype.com
+    Designer: Matt McInerney, Pablo Impallari, Rodrigo Fuenzalida
+    Designer url: http://pixelspread.com
+    Glyph count: 672
+    Character count: 598
+    Orthographies:
+        Orthography:
+          Common name: Subset latin-ext
+          Support level: fragmentary
+          Percent coverage: 26
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: full
+        Orthography:
+          Common name: Subset devanagari
+          Support level: fragmentary
+          Percent coverage: 1
+        Orthography:
+          Common name: Subset vietnamese
+          Support level: fragmentary
+          Percent coverage: 15
+        Orthography:
+          Common name: Subset greek
+          Support level: fragmentary
+          Percent coverage: 2
+        Orthography:
+          Common name: Subset cyrillic
+          Support level: full
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: partial
+          Percent coverage: 80
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23
+        Orthography:
+          Common name: Subset latin
+          Support level: partial
+          Percent coverage: 98
+  Font:
+    Common name: Raleway
+    Sub family: Thin
+    Weight: normal
+    Fixed width: no
+    Fixed sizes: no
+    Copyright: Copyright (c) 2010 - 2013, Matt McInerney (matt@pixelspread.com), Pablo Impallari (impallari@gmail.com), Rodrigo Fuenzalida (hello@rfuenzalida.com) with Reserved Font Name "Raleway"
+    License: This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL
+    License url: http://scripts.sil.org/OFL
+    Version: Version 3.000; ttfautohint (v0.96) -l 8 -r 28 -G 28 -x 14 -w "G" -c
+    Vendor: Matt McInerney, Pablo Impallari, Rodrigo Fuenzalida
+    Vendor url: http://theleagueofmoveabletype.com
+    Designer: Matt McInerney, Pablo Impallari, Rodrigo Fuenzalida
+    Designer url: http://pixelspread.com
+    Glyph count: 672
+    Character count: 600
+    Orthographies:
+        Orthography:
+          Common name: Subset latin-ext
+          Support level: fragmentary
+          Percent coverage: 26
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: full
+        Orthography:
+          Common name: Subset devanagari
+          Support level: fragmentary
+          Percent coverage: 1
+        Orthography:
+          Common name: Subset vietnamese
+          Support level: fragmentary
+          Percent coverage: 15
+        Orthography:
+          Common name: Subset greek
+          Support level: fragmentary
+          Percent coverage: 2
+        Orthography:
+          Common name: Subset cyrillic
+          Support level: full
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: partial
+          Percent coverage: 80
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23
+        Orthography:
+          Common name: Subset latin
+          Support level: partial
+          Percent coverage: 98
+  Font:
+    Common name: Raleway
+    Sub family: ExtraBold Italic
+    Style: italic
+    Weight: bold
+    Fixed width: no
+    Fixed sizes: yes
+    Copyright: Copyright (c) 2010 - 2012, Matt McInerney (matt@pixelspread.com), Pablo Impallari (impallari@gmail.com), Rodrigo Fuenzalida (hello@rfuenzalida.com) with Reserved Font Name "Raleway"
+    License: This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL
+    License url: http://scripts.sil.org/OFL
+    Version: Version 3.000
+    Vendor: Matt McInerney, Pablo Impallari, Rodrigo Fuenzalida
+    Vendor url: http://theleagueofmoveabletype.com
+    Designer: Matt McInerney, Pablo Impallari, Rodrigo Fuenzalida
+    Designer url: http://pixelspread.com
+    Glyph count: 572
+    Character count: 500
+    Orthographies:
+        Orthography:
+          Common name: Subset latin-ext
+          Support level: fragmentary
+          Percent coverage: 26
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: fragmentary
+          Percent coverage: 33
+        Orthography:
+          Common name: Subset devanagari
+          Support level: fragmentary
+          Percent coverage: 1
+        Orthography:
+          Common name: Subset vietnamese
+          Support level: fragmentary
+          Percent coverage: 15
+        Orthography:
+          Common name: Subset greek
+          Support level: fragmentary
+          Percent coverage: 2
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: partial
+          Percent coverage: 80
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23
+        Orthography:
+          Common name: Subset latin
+          Support level: partial
+          Percent coverage: 98
+  Font:
+    Common name: Raleway
+    Sub family: SemiBold
+    Weight: bold
+    Fixed width: no
+    Fixed sizes: no
+    Copyright: Copyright (c) 2010 - 2013, Matt McInerney (matt@pixelspread.com), Pablo Impallari (impallari@gmail.com), Rodrigo Fuenzalida (hello@rfuenzalida.com) with Reserved Font Name "Raleway"
+    License: This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL
+    License url: http://scripts.sil.org/OFL
+    Version: Version 3.000; ttfautohint (v0.96) -l 8 -r 28 -G 28 -x 14 -w "G" -c
+    Vendor: Matt McInerney, Pablo Impallari, Rodrigo Fuenzalida
+    Vendor url: http://theleagueofmoveabletype.com
+    Designer: Matt McInerney, Pablo Impallari, Rodrigo Fuenzalida
+    Designer url: http://pixelspread.com
+    Glyph count: 672
+    Character count: 598
+    Orthographies:
+        Orthography:
+          Common name: Subset latin-ext
+          Support level: fragmentary
+          Percent coverage: 26
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: full
+        Orthography:
+          Common name: Subset devanagari
+          Support level: fragmentary
+          Percent coverage: 1
+        Orthography:
+          Common name: Subset vietnamese
+          Support level: fragmentary
+          Percent coverage: 15
+        Orthography:
+          Common name: Subset greek
+          Support level: fragmentary
+          Percent coverage: 2
+        Orthography:
+          Common name: Subset cyrillic
+          Support level: full
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: partial
+          Percent coverage: 80
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23
+        Orthography:
+          Common name: Subset latin
+          Support level: partial
+          Percent coverage: 98
+  Font:
+    Common name: Raleway
+    Sub family: Regular
+    Weight: normal
+    Fixed width: no
+    Fixed sizes: yes
+    Copyright: Copyright (c) 2010 - 2013, Matt McInerney (matt@pixelspread.com), Pablo Impallari (impallari@gmail.com), Rodrigo Fuenzalida (hello@rfuenzalida.com) with Reserved Font Name "Raleway"
+    License: This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL
+    License url: http://scripts.sil.org/OFL
+    Version: Version 3.000
+    Vendor: Matt McInerney, Pablo Impallari, Rodrigo Fuenzalida
+    Vendor url: http://theleagueofmoveabletype.com
+    Designer: Matt McInerney, Pablo Impallari, Rodrigo Fuenzalida
+    Designer url: http://pixelspread.com
+    Glyph count: 672
+    Character count: 600
+    Orthographies:
+        Orthography:
+          Common name: Subset latin-ext
+          Support level: fragmentary
+          Percent coverage: 26
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: full
+        Orthography:
+          Common name: Subset devanagari
+          Support level: fragmentary
+          Percent coverage: 1
+        Orthography:
+          Common name: Subset vietnamese
+          Support level: fragmentary
+          Percent coverage: 15
+        Orthography:
+          Common name: Subset greek
+          Support level: fragmentary
+          Percent coverage: 2
+        Orthography:
+          Common name: Subset cyrillic
+          Support level: full
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: partial
+          Percent coverage: 80
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23
+        Orthography:
+          Common name: Subset latin
+          Support level: partial
+          Percent coverage: 98
+  Font:
+    Common name: Raleway
+    Sub family: Black
+    Weight: bold
+    Fixed width: no
+    Fixed sizes: yes
+    Copyright: Copyright (c) 2010 - 2013, Matt McInerney (matt@pixelspread.com), Pablo Impallari (impallari@gmail.com), Rodrigo Fuenzalida (hello@rfuenzalida.com) with Reserved Font Name "Raleway"
+    License: This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL
+    License url: http://scripts.sil.org/OFL
+    Version: Version 3.000
+    Vendor: Matt McInerney, Pablo Impallari, Rodrigo Fuenzalida
+    Vendor url: http://theleagueofmoveabletype.com
+    Designer: Matt McInerney, Pablo Impallari, Rodrigo Fuenzalida
+    Designer url: http://pixelspread.com
+    Glyph count: 672
+    Character count: 600
+    Orthographies:
+        Orthography:
+          Common name: Subset latin-ext
+          Support level: fragmentary
+          Percent coverage: 26
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: full
+        Orthography:
+          Common name: Subset devanagari
+          Support level: fragmentary
+          Percent coverage: 1
+        Orthography:
+          Common name: Subset vietnamese
+          Support level: fragmentary
+          Percent coverage: 15
+        Orthography:
+          Common name: Subset greek
+          Support level: fragmentary
+          Percent coverage: 2
+        Orthography:
+          Common name: Subset cyrillic
+          Support level: full
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: partial
+          Percent coverage: 80
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23
+        Orthography:
+          Common name: Subset latin
+          Support level: partial
+          Percent coverage: 98
+  Font:
+    Common name: Raleway
+    Sub family: Italic
+    Style: italic
+    Weight: normal
+    Fixed width: no
+    Fixed sizes: no
+    Copyright: Copyright (c) 2010 - 2012, Matt McInerney (matt@pixelspread.com), Pablo Impallari (impallari@gmail.com), Rodrigo Fuenzalida (hello@rfuenzalida.com) with Reserved Font Name "Raleway"
+    License: This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL
+    License url: http://scripts.sil.org/OFL
+    Version: Version 3.000; ttfautohint (v0.96) -l 8 -r 28 -G 28 -x 14 -w "G" -c
+    Vendor: Matt McInerney, Pablo Impallari, Rodrigo Fuenzalida
+    Vendor url: http://theleagueofmoveabletype.com
+    Designer: Matt McInerney, Pablo Impallari, Rodrigo Fuenzalida
+    Designer url: http://pixelspread.com
+    Glyph count: 572
+    Character count: 500
+    Orthographies:
+        Orthography:
+          Common name: Subset latin-ext
+          Support level: fragmentary
+          Percent coverage: 26
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: fragmentary
+          Percent coverage: 33
+        Orthography:
+          Common name: Subset devanagari
+          Support level: fragmentary
+          Percent coverage: 1
+        Orthography:
+          Common name: Subset vietnamese
+          Support level: fragmentary
+          Percent coverage: 15
+        Orthography:
+          Common name: Subset greek
+          Support level: fragmentary
+          Percent coverage: 2
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: partial
+          Percent coverage: 80
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23
+        Orthography:
+          Common name: Subset latin
+          Support level: partial
+          Percent coverage: 98
+  Font:
+    Common name: Raleway
+    Sub family: ExtraLight Italic
+    Style: italic
+    Weight: normal
+    Fixed width: no
+    Fixed sizes: yes
+    Copyright: Copyright (c) 2010 - 2012, Matt McInerney (matt@pixelspread.com), Pablo Impallari (impallari@gmail.com), Rodrigo Fuenzalida (hello@rfuenzalida.com) with Reserved Font Name "Raleway"
+    License: This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL
+    License url: http://scripts.sil.org/OFL
+    Version: Version 3.000
+    Vendor: Matt McInerney, Pablo Impallari, Rodrigo Fuenzalida
+    Vendor url: http://theleagueofmoveabletype.com
+    Designer: Matt McInerney, Pablo Impallari, Rodrigo Fuenzalida
+    Designer url: http://pixelspread.com
+    Glyph count: 572
+    Character count: 500
+    Orthographies:
+        Orthography:
+          Common name: Subset latin-ext
+          Support level: fragmentary
+          Percent coverage: 26
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: fragmentary
+          Percent coverage: 33
+        Orthography:
+          Common name: Subset devanagari
+          Support level: fragmentary
+          Percent coverage: 1
+        Orthography:
+          Common name: Subset vietnamese
+          Support level: fragmentary
+          Percent coverage: 15
+        Orthography:
+          Common name: Subset greek
+          Support level: fragmentary
+          Percent coverage: 2
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: partial
+          Percent coverage: 80
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23
+        Orthography:
+          Common name: Subset latin
+          Support level: partial
+          Percent coverage: 98
+  Font:
+    Common name: Raleway
+    Sub family: ExtraLight
+    Weight: normal
+    Fixed width: no
+    Fixed sizes: no
+    Copyright: Copyright (c) 2010 - 2013, Matt McInerney (matt@pixelspread.com), Pablo Impallari (impallari@gmail.com), Rodrigo Fuenzalida (hello@rfuenzalida.com) with Reserved Font Name "Raleway"
+    License: This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL
+    License url: http://scripts.sil.org/OFL
+    Version: Version 3.000; ttfautohint (v0.96) -l 8 -r 28 -G 28 -x 14 -w "G" -c
+    Vendor: Matt McInerney, Pablo Impallari, Rodrigo Fuenzalida
+    Vendor url: http://theleagueofmoveabletype.com
+    Designer: Matt McInerney, Pablo Impallari, Rodrigo Fuenzalida
+    Designer url: http://pixelspread.com
+    Glyph count: 672
+    Character count: 598
+    Orthographies:
+        Orthography:
+          Common name: Subset latin-ext
+          Support level: fragmentary
+          Percent coverage: 26
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: full
+        Orthography:
+          Common name: Subset devanagari
+          Support level: fragmentary
+          Percent coverage: 1
+        Orthography:
+          Common name: Subset vietnamese
+          Support level: fragmentary
+          Percent coverage: 15
+        Orthography:
+          Common name: Subset greek
+          Support level: fragmentary
+          Percent coverage: 2
+        Orthography:
+          Common name: Subset cyrillic
+          Support level: full
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: partial
+          Percent coverage: 80
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23
+        Orthography:
+          Common name: Subset latin
+          Support level: partial
+          Percent coverage: 98
+  Font:
+    Common name: Raleway
+    Sub family: ExtraBold
+    Weight: bold
+    Fixed width: no
+    Fixed sizes: no
+    Copyright: Copyright (c) 2010 - 2013, Matt McInerney (matt@pixelspread.com), Pablo Impallari (impallari@gmail.com), Rodrigo Fuenzalida (hello@rfuenzalida.com) with Reserved Font Name "Raleway"
+    License: This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL
+    License url: http://scripts.sil.org/OFL
+    Version: Version 3.000; ttfautohint (v0.96) -l 8 -r 28 -G 28 -x 14 -w "G" -c
+    Vendor: Matt McInerney, Pablo Impallari, Rodrigo Fuenzalida
+    Vendor url: http://theleagueofmoveabletype.com
+    Designer: Matt McInerney, Pablo Impallari, Rodrigo Fuenzalida
+    Designer url: http://pixelspread.com
+    Glyph count: 672
+    Character count: 598
+    Orthographies:
+        Orthography:
+          Common name: Subset latin-ext
+          Support level: fragmentary
+          Percent coverage: 26
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: full
+        Orthography:
+          Common name: Subset devanagari
+          Support level: fragmentary
+          Percent coverage: 1
+        Orthography:
+          Common name: Subset vietnamese
+          Support level: fragmentary
+          Percent coverage: 15
+        Orthography:
+          Common name: Subset greek
+          Support level: fragmentary
+          Percent coverage: 2
+        Orthography:
+          Common name: Subset cyrillic
+          Support level: full
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: partial
+          Percent coverage: 80
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23
+        Orthography:
+          Common name: Subset latin
+          Support level: partial
+          Percent coverage: 98
+  Font:
+    Common name: Raleway
+    Sub family: Regular
+    Weight: normal
+    Fixed width: no
+    Fixed sizes: no
+    Copyright: Copyright (c) 2010 - 2013, Matt McInerney (matt@pixelspread.com), Pablo Impallari (impallari@gmail.com), Rodrigo Fuenzalida (hello@rfuenzalida.com) with Reserved Font Name "Raleway"
+    License: This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL
+    License url: http://scripts.sil.org/OFL
+    Version: Version 3.000; ttfautohint (v0.96) -l 8 -r 28 -G 28 -x 14 -w "G" -c
+    Vendor: Matt McInerney, Pablo Impallari, Rodrigo Fuenzalida
+    Vendor url: http://theleagueofmoveabletype.com
+    Designer: Matt McInerney, Pablo Impallari, Rodrigo Fuenzalida
+    Designer url: http://pixelspread.com
+    Glyph count: 672
+    Character count: 598
+    Orthographies:
+        Orthography:
+          Common name: Subset latin-ext
+          Support level: fragmentary
+          Percent coverage: 26
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: full
+        Orthography:
+          Common name: Subset devanagari
+          Support level: fragmentary
+          Percent coverage: 1
+        Orthography:
+          Common name: Subset vietnamese
+          Support level: fragmentary
+          Percent coverage: 15
+        Orthography:
+          Common name: Subset greek
+          Support level: fragmentary
+          Percent coverage: 2
+        Orthography:
+          Common name: Subset cyrillic
+          Support level: full
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: partial
+          Percent coverage: 80
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23
+        Orthography:
+          Common name: Subset latin
+          Support level: partial
+          Percent coverage: 98
+  Font:
+    Common name: Raleway
+    Sub family: ExtraLight Italic
+    Style: italic
+    Weight: normal
+    Fixed width: no
+    Fixed sizes: no
+    Copyright: Copyright (c) 2010 - 2012, Matt McInerney (matt@pixelspread.com), Pablo Impallari (impallari@gmail.com), Rodrigo Fuenzalida (hello@rfuenzalida.com) with Reserved Font Name "Raleway"
+    License: This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL
+    License url: http://scripts.sil.org/OFL
+    Version: Version 3.000; ttfautohint (v0.96) -l 8 -r 28 -G 28 -x 14 -w "G" -c
+    Vendor: Matt McInerney, Pablo Impallari, Rodrigo Fuenzalida
+    Vendor url: http://theleagueofmoveabletype.com
+    Designer: Matt McInerney, Pablo Impallari, Rodrigo Fuenzalida
+    Designer url: http://pixelspread.com
+    Glyph count: 572
+    Character count: 500
+    Orthographies:
+        Orthography:
+          Common name: Subset latin-ext
+          Support level: fragmentary
+          Percent coverage: 26
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: fragmentary
+          Percent coverage: 33
+        Orthography:
+          Common name: Subset devanagari
+          Support level: fragmentary
+          Percent coverage: 1
+        Orthography:
+          Common name: Subset vietnamese
+          Support level: fragmentary
+          Percent coverage: 15
+        Orthography:
+          Common name: Subset greek
+          Support level: fragmentary
+          Percent coverage: 2
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: partial
+          Percent coverage: 80
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23
+        Orthography:
+          Common name: Subset latin
+          Support level: partial
+          Percent coverage: 98
